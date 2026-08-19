@@ -95,4 +95,4 @@ seperti yang dibuktikan pada MLP sederhana di repo ini.
 
 ## Lisensi
 
-- Project ini dilisensikan di bawah [MIT License](LICENSE).
+Project ini dilisensikan di bawah [MIT License](LICENSE).
