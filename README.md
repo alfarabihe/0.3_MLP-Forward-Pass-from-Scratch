@@ -1,4 +1,12 @@
-# Forward Pass MLP dari Nol
+# MLP Forward Pass from Scratch
+
+<div align="center">
+
+[![License](https://img.shields.io/github/license/alfarabihe/Ising-Model-for-Public-Opinion.svg?color=brightgreen)](https://github.com/alfarabihe/0.3_MLP-Forward-Pass-from-Scratch/blob/master/LICENSE)
+[![X](https://img.shields.io/badge/X-Share-black?logo=x)](https://twitter.com/intent/tweet?text=Ising-Model-for-Public-Opinion%20&url=https://github.com/alfarabihe/Ising-Model-for-Public-Opinion&hashtags=IsingModel,Simulation) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Share-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Falfarabihe%2FIsing-Model-for-Public-Opinion)
+
+</div>
 
 Implementasi forward pass Multi-Layer Perceptron (MLP) 1 hidden layer **dari nol**
 menggunakan `numpy` murni (tanpa framework deep learning), untuk memahami secara
@@ -84,3 +92,7 @@ rentang $(0,1)$ dan bisa berfungsi sebagai *filter*/saklar informasi. Kandidat *
 state* $\tilde{C}_t$ dibungkus **`tanh`** agar bernilai di $(-1,1)$. Tanpa nonlinearitas
 ini, seluruh mekanisme *gating* LSTM akan runtuh menjadi kombinasi linear biasa — persis
 seperti yang dibuktikan pada MLP sederhana di repo ini.
+
+## Lisensi
+
+- Project ini dilisensikan di bawah [MIT License](LICENSE).
