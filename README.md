@@ -15,6 +15,7 @@ repo ini.
 | File | Deskripsi |
 |---|---|
 | `forward_pass_mlp_dari_nol.ipynb` | Notebook utama: implementasi, eksperimen, dan pembuktian |
+| `INTERPRETASI.md` | Interpretasi hasil eksekusi notebook — membaca makna tiap output (bobot, forward pass, pembuktian numerik) dan menjelaskan mengapa hasilnya membuktikan pentingnya nonlinearitas |
 
 ## Apa yang Dibangun
 
